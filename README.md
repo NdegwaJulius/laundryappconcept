@@ -1,6 +1,6 @@
 # laundry_app_concept
 
-A new Flutter project.
+# Flutter UI Concept
 
 ## Getting Started
 
